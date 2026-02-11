@@ -1,0 +1,29 @@
+# Requirements for Facial Expression Recognition Project
+# TTNT Midterm Exam
+
+# Core deep learning framework (tensorflow-intel for Windows + Python 3.12)
+tensorflow-intel
+
+# Image processing
+opencv-python
+Pillow
+scikit-image
+
+# Data handling and numerical computation
+numpy
+pandas
+
+# Machine Learning
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Jupyter support
+jupyter
+ipykernel
+notebook
+
+# Progress bar
+tqdm
